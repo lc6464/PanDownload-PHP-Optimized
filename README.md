@@ -1,6 +1,6 @@
 # baiduwp-php
 PanDownload 网页复刻版，PHP 语言版<br/>
-本项目是依据 [baiduwp](https://github.com/TkzcM/baiduwp "baiduwp") 的 JavaScript 版本改写而来，仅供大家学习参考<br/>
+本项目是依据 [baiduwp-php](https://github.com/yuantuo666/baiduwp-php "baiduwp-php") 优化而来，仅供大家学习参考<br/>
 希望在使用时能够保留导航栏的 Made by Yuan_Tuo 和 Optimized by LC，感谢！
 - 原作者 [Yuan_Tuo](https://github.com/yuantuo666 "Yuantuo")
 - 由 [LC](https://github.com/lc6464 "LC") 优化
